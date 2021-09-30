@@ -1,0 +1,7 @@
+pandas
+tqdm
+github
+itunes-app-scraper-dmi
+git+https://github.com/bumatic/google-play-scraper.git
+bitchute-scraper
+telethon
