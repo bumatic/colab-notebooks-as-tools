@@ -1,11 +1,15 @@
 # Colab Notebooks as Tools
 
-This repository contains a number of Juppyter notebooks serving as digital methods tools that I created for use with Google Collaboratory. Running these notebooks assumes that you connect to your Google Drive account for loading config data – such as API keys – and storing results. 
+**Disclaimer:** Using these notebooks with Google Collaboratory (Colab) requires you to login to a Google account. 
 
-Currently existing tools:
+This repository contains a number of Juppyter notebooks serving as digital methods tools that I created for use with Google Collaboratory. Since a Google account is required for executing a notebook with Colab the notebooks are set up to make use of your private Google Drive for storing sensitive config data as well as your results. You will be prompted for authentification. For storing data a directory *Colab_Data* will be created automatically if it does not yet exist in your Google Drive.
 
-1. Telegram-Message-Retrieval.ipynb
-2. Scrape Bitchute Platform Recommendations.ipynb
+To run any these notebooks visit: [colab.research.google.com/](https://colab.research.google.com/). In Google Colab go to File/Open Notebook, select Github and paste "bumatic/colab-notebooks-as-tools" as pointer to this repository. Now a list of available notebooks appears. Select the tool you want to run and open it.
+
+The following tools are currently available:
+
+1. Github_Repository_Data.ipynb
+2. Query Apple App Store and Retrieve Similar Network.ipynb
 3. Query Google Play and Retrieve Similar Network.ipynb
-4. Query Apple App Store and Retrieve Similar Network.ipynb
-5. Github_Repository_Data.ipynb
+4. Scrape Bitchute Platform Recommendations.ipynb
+5. Telegram-Message-Retrieval.ipynb
