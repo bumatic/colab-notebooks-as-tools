@@ -6,9 +6,9 @@ To run any these notebooks visit: [colab.research.google.com/](https://colab.res
 
 The following tools are currently available:
 
-1. Github_Repository_Data.ipynb
+1. Github Repository Data.ipynb
+2. Instagram Scraper.ipynb (provides a Colab UI for [instagram-scraper CLI application](https://github.com/arc298/instagram-scraper))
 2. Query Apple App Store and Retrieve Similar Network.ipynb
 3. Query Google Play and Retrieve Similar Network.ipynb
 4. Scrape Bitchute Platform Recommendations.ipynb
-5. Telegram-Message-Retrieval.ipynb
-6. Instagram Scraper.ipynb (provides a Colab UI for [instagram-scraper CLI application](https://github.com/arc298/instagram-scraper))
+5. Telegram Message Retrieval.ipynb
