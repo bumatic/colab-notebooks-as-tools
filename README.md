@@ -11,3 +11,4 @@ The following tools are currently available:
 3. Query Google Play and Retrieve Similar Network.ipynb
 4. Scrape Bitchute Platform Recommendations.ipynb
 5. Telegram-Message-Retrieval.ipynb
+6. Instagram Scraper.ipynb (provides a Colab UI for [instagram-scraper CLI application](https://github.com/arc298/instagram-scraper))
