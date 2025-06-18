@@ -8,7 +8,8 @@ The following tools are currently available:
 
 1. Github Repository Data.ipynb
 2. Instagram Scraper.ipynb (provides a Colab UI for [instagram-scraper CLI application](https://github.com/arc298/instagram-scraper))
-2. Query Apple App Store and Retrieve Similar Network.ipynb
-3. Query Google Play and Retrieve Similar Network.ipynb
-4. Scrape Bitchute Platform Recommendations.ipynb
-5. Telegram Message Retrieval.ipynb
+3. [Memespector Converter.ipynb](https://colab.research.google.com/github/bumatic/colab-notebooks-as-tools/blob/main/Memespector%20Converter.ipynb) for postprocessing results from [Memespector GUI](https://github.com/jason-chao/memespector-gui)
+Query Apple App Store and Retrieve Similar Network.ipynb
+4. Query Google Play and Retrieve Similar Network.ipynb
+5. Scrape Bitchute Platform Recommendations.ipynb
+6. Telegram Message Retrieval.ipynb
